@@ -1,0 +1,82 @@
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+
+.inter-<uniquifier> {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+    font-family: "Inter", Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 48pt;
+    font-weight: 500;
+}
+
+a {
+    font-size: 18pt;
+    text-decoration: none;
+    color: black;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+a:hover {
+  color: red;
+}
+
+.portfolio-container {
+    display: flex;
+    margin: 1rem;
+    justify-content: center;
+}
+
+.flex-col {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.portfolio-image {
+    max-width: 100%;
+    height: auto;
+    margin: 1rem;
+    image-rendering: auto;
+}
+
+@media screen and (min-width: 1440px) {
+    .portfolio-container {
+        margin: auto;
+        width: 60%;
+    }
+}

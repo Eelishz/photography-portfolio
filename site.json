@@ -1,0 +1,179 @@
+{
+    "header_title": "Eelis Holmstén",
+
+    "menu_items": [
+        {
+            "text": "concert",
+            "href": "#concert-portfolio-13.jpg"
+        },
+        {
+            "text": "people",
+            "href": "#portfolio-2-1.jpg"
+        }
+    ],
+
+    "picture_prefix": "./assets/images/",
+    "preview_prefix": "./assets/images/preview/",
+    "pictures": [
+        {
+            "file": "concert-portfolio-13.jpg",
+            "caption": ""
+        },
+        {
+            "file": "concert-portfolio-14.jpg",
+            "caption": ""
+        },
+        {
+            "file": "concert-portfolio-15.jpg",
+            "caption": ""
+        },
+        {
+            "file": "concert-portfolio-16.jpg",
+            "caption": ""
+        },
+        {
+            "file": "concert-portfolio-17.jpg",
+            "caption": ""
+        },
+        {
+            "file": "concert-portfolio-18.jpg",
+            "caption": ""
+        },
+        {
+            "file": "concert-portfolio-10.jpg",
+            "caption": ""
+        },
+        {
+            "file": "concert-portfolio-11.jpg",
+            "caption": ""
+        },
+        {
+            "file": "concert-portfolio-7.jpg",
+            "caption": ""
+        },
+        {
+            "file": "concert-portfolio-8.jpg",
+            "caption": ""
+        },
+        {
+            "file": "concert-portfolio-9.jpg",
+            "caption": ""
+        },
+        {
+            "file": "concert-portfolio-12.jpg",
+            "caption": ""
+        },
+        {
+            "file": "concert-portfolio-19.jpg",
+            "caption": ""
+        },
+        {
+            "file": "concert-portfolio-20.jpg",
+            "caption": ""
+        },
+        {
+            "file": "concert-portfolio-21.jpg",
+            "caption": ""
+        },
+        {
+            "file": "concert-portfolio-22.jpg",
+            "caption": ""
+        },
+        {
+            "file": "concert-portfolio-23.jpg",
+            "caption": ""
+        },
+        {
+            "file": "concert-portfolio-24.jpg",
+            "caption": ""
+        },
+        {
+            "file": "concert-portfolio-3.jpg",
+            "caption": ""
+        },
+        {
+            "file": "concert-portfolio-4.jpg",
+            "caption": ""
+        },
+        {
+            "file": "concert-portfolio-5.jpg",
+            "caption": ""
+        },
+        {
+            "file": "concert-portfolio-6.jpg",
+            "caption": ""
+        },
+        {
+            "file": "concert-portfolio-1.jpg",
+            "caption": ""
+        },
+        {
+            "file": "concert-portfolio-2.jpg",
+            "caption": ""
+        },
+        {
+            "file": "portfolio-2-1.jpg",
+            "caption": ""
+        },
+        {
+            "file": "portfolio-2-2.jpg",
+            "caption": ""
+        },
+        {
+            "file": "portfolio-2-3.jpg",
+            "caption": ""
+        },
+        {
+            "file": "portfolio-2-4.jpg",
+            "caption": ""
+        },
+        {
+            "file": "portfolio-2-5.jpg",
+            "caption": ""
+        },
+        {
+            "file": "portfolio-2-6.jpg",
+            "caption": ""
+        },
+        {
+            "file": "portfolio-2-7.jpg",
+            "caption": ""
+        },
+        {
+            "file": "portfolio-2-8.jpg",
+            "caption": ""
+        },
+        {
+            "file": "portfolio-2-9.jpg",
+            "caption": ""
+        },
+        {
+            "file": "portfolio-2-10.jpg",
+            "caption": ""
+        },
+        {
+            "file": "portfolio-2-11.jpg",
+            "caption": ""
+        },
+        {
+            "file": "portfolio-2-12.jpg",
+            "caption": ""
+        },
+        {
+            "file": "portfolio-2-13.jpg",
+            "caption": ""
+        },
+        {
+            "file": "portfolio-2-14.jpg",
+            "caption": ""
+        },
+        {
+            "file": "portfolio-2-15.jpg",
+            "caption": ""
+        },
+        {
+            "file": "portfolio-2-16.jpg",
+            "caption": ""
+        }
+    ]
+}
